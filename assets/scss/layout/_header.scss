@@ -8,6 +8,9 @@
       height: 40px;
     }
   }
+  .name:hover{
+    color: $dark;
+  }
   .search{
     i{
       color: $primary;
