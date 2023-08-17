@@ -1,0 +1,16 @@
+.line{
+  width: 100px;
+  height: 0px;
+  border: 1px solid #000;
+  transform: rotate(-60deg);
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+.line-sm{
+  width: 50px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.cover-img{
+  background-image: url("https://github.com/hexschool/2022-web-layout-training/blob/main/2023week6/event/09.jpg?raw=true");
+}
